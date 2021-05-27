@@ -67,8 +67,8 @@ body {
     					<span class="input-group-text" id="inputGroup-sizing-default">Country code:</span>
     				</div>
     				<input type="text" name="country" placeholder="JP" maxlength="2" class="form-control"/><br/>
-    				<span>${errorMessage}</span>
     			</div>
+    			<span>${errorMessage}</span><br>
     			<button type="submit" class="btn btn-lg btn-secondary fw-bold border-white bg-white">Discover</button>
     		</form><br>
     		
